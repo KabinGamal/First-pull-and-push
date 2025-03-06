@@ -44,6 +44,7 @@ int main()
 		printf("\t%d",*p+i);
 		
 	}
+	// my name is hjdfviyeefvbhkv
 }
 	
 
